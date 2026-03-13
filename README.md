@@ -35,3 +35,9 @@ The research utilizes AI-powered agents and web scraping tools to gather data fr
 ## Disclaimer
 
 This research is for informational purposes only. All findings are based on publicly available data and should not be considered as definitive conclusions.
+
+## Related Documentation
+
+- **[AGENTS.md](AGENTS.md)**: Detailed documentation of the AI agents and MCP tools used in this research project.
+- **[IF_YOU_LOVE_ME.,md](IF_YOU_LOVE_ME.,md)**: A poetic reflection on love and relationships inspired by Skepsiz's music.
+- **[HARTMANN.md](HARTMANN.md)**: Overview of repositories from the hartmann-lab GitHub organization, focusing on metagenomics research.
